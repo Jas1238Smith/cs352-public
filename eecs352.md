@@ -21,7 +21,7 @@ Lecture: Tue, Tue, 3:30 - 4:50pm CST in Technological Institute M164
 [Dr. Jason Smith](https://jas1238smith.github.io/) 
 11am - 12pm Tuesdays in Mudd 3506
 
-[TA Yuchen Cao](https://anniejchu.github.io)
+[TA Yuchen Cao](https://purmecia.github.io)
 11am - 1pm Tuesdays in Mudd 3108
 
 [Peer Mentor Nandini Ventakesh]
