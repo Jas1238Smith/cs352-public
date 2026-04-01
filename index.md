@@ -24,10 +24,10 @@ Lecture: Tue, Tue, 3:30 - 4:50pm CST in Technological Institute M164
 [TA Yuchen Cao](https://purmecia.github.io)
 11am - 1pm Tuesdays in Mudd 3108
 
-[Peer Mentor Nandini Ventakesh](nandinivenkatesh2026@u.northwestern.edu)
+[Peer Mentor Nandini Ventakesh](mailto:nandinivenkatesh2026@u.northwestern.edu)
 11am - 12pm Wednesdays in Mudd 3108
 
-[Peer Mentor Aidan Mott](AidanMott2026@u.northwestern.edu)
+[Peer Mentor Aidan Mott](mailto:AidanMott2026@u.northwestern.edu)
 3pm - 4pm Mondays in Mudd 3rd Floor Front Counter
 
 ### Course Policies 
