@@ -19,7 +19,7 @@ Lecture: Tue, Tue, 3:30 - 4:50pm CST in Technological Institute M164
 
 ### Instructors & Office Hours
 [Dr. Jason Smith](https://jas1238smith.github.io/) 
-1pm - 2pm Thursdays in Mudd 3506
+1pm - 2pm Fridays in Mudd 3506
 
 [TA Yuchen Cao](https://purmecia.github.io)
 11am - 1pm Tuesdays in Mudd 3108
