@@ -22,7 +22,7 @@ Lecture: Tue, Tue, 3:30 - 4:50pm CST in Technological Institute M164
 1pm - 2pm Fridays in Mudd 3506
 
 [TA Yuchen Cao](https://purmecia.github.io)
-11am - 1pm Tuesdays in Mudd 3108
+11am - 1pm Thursdays in Mudd 3108
 
 [Peer Mentor Nandini Ventakesh](mailto:nandinivenkatesh2026@u.northwestern.edu)
 11am - 12pm Wednesdays in Mudd 3108
