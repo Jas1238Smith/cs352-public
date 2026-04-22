@@ -74,7 +74,7 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 |10    | Tue Jun 2   | Zoom meetings with project groups (no class: meetings by appointment)                      | Project meeting            | 3 (of 20) |    
 |10   | Thu Jun 4  | Current research in music & audio                                                          |                            |           |    
 |11   | Tue Jun 9  | Zoom meetings with project groups (no class: meetings by appointment)                      | Project meeting            | 3 (of 20) |  
-|11   | Thu Jun 11  | Final project presentations 7-9pm NEW LOCATION: HCI+D Center in Francis Searle Building                          | Final project              | 11(of 20) |
+|11   | Thu Jun 11  | Final project presentations 3-5pm NEW LOCATION: HCI+D Center in Francis Searle Building                          | Final project              | 11(of 20) |
 
 
 <a name="readings"></a>
