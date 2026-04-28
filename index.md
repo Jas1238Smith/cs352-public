@@ -62,7 +62,7 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 |4    | Tue Apr 21  | [Convolution & FFT notebooks](eecs352stuff/convolution_and_fft_notebook.zip)                                              |        |      |    
 |4    | Thu Apr 23  | [SOURCE SEPARATION WITH REPET](eecs352stuff/CS352-topic10-REPET-SIM.pdf)                                                              |                            |      | 
 |5    | Tue Apr 28  | [MFCCs and Chromagrams](eecs352stuff/CS352-topic7-Chroma-Cepstra.pdf) & [MFCC & Chroma notebooks](eecs352stuff/NUCS352_chromagram_mfcc_notebook.zip)    |    |    |    
-|5    | Thu Apr 30   | [Self Similarity](https://pseeth.giTueb.io/public/lectures/self-similarity.html)           | HW 2 Spectrograms, Masking |  20  |
+|5    | Thu Apr 30   | [Self Similarity](https://pseeth.github.io/public/lectures/self-similarity.html)           | HW 2 Spectrograms, Masking |  20  |
 |6    | Tue May 5   | MIDTERM REVIEW  + [Pitch Tracking](eecs352stuff/CS352-Single-Pitch-Detection.pdf)          |                            |      | 
 |6    | Thu May 7  | MIDTERM                                                                                    | MIDTERM                    |   20 |    
 |7    | Tue May 12  | [Sound Object Labeling](eecs352stuff/CS352-topic11-sound-object-id.pdf)                    |                            |      |    
