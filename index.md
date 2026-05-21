@@ -68,7 +68,7 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 |7    | Tue May 12  | [Sound Object Labeling](eecs352stuff/CS352-topic11-sound-object-id.pdf)                    |                            |      |    
 |7    | Thu May 14  | [Deep Learning](eecs352stuff/CS352-topic12-deep-nets.pdf) & [Autoencoders](eecs352stuff/DL_Autoencoders.pdf)                                 | HW 3 Infinite Jukebox      |   20 |
 |8    | Tue May 19  | [Embeddings](eecs352stuff/CS352-embeddings.pdf) & [Embeddings Notebook](eecs352stuff/NUCS352_clap_embeddings_notebook.zip) |  |  |
-|8    | Thu May 21  | Final projects, VoiceID, Source Separation                                                 |                            |      |    
+|8    | Thu May 21  | Final projects, Interactive Music                                                 |                            |      |    
 |9    | Tue May 26  | Final project group formation & proposals                                                  | HW 4 Using Embeddings      |        20 |    
 |9    | Thu May 28   | Current research in music & audio                                                  |   
 |10   | Tue Jun 2  | Current research in music & audio     | Project proposal due       | 3 (of 20) |  
